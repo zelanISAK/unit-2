@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T04:38:54.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="W8OLEXb8v-gJ74EBb_1T" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-23T04:44:39.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3fWFmXJvCbdhLuvI3ApA" version="20.5.3" type="github" pages="6">
   <diagram id="7nk6eQPHhUL6S2deodAz" name="q17">
-    <mxGraphModel dx="328" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,8 @@
         <mxCell id="DHJsjrCEPJyL6oHBZEnf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DHJsjrCEPJyL6oHBZEnf-3" target="DHJsjrCEPJyL6oHBZEnf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHJsjrCEPJyL6oHBZEnf-3" value="def averageLength(words)-&amp;gt;int:" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="240" width="230" height="40" as="geometry" />
+        <mxCell id="DHJsjrCEPJyL6oHBZEnf-3" value="def averageLength(words:list)-&amp;gt;int:" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="25" y="240" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DHJsjrCEPJyL6oHBZEnf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DHJsjrCEPJyL6oHBZEnf-5" target="DHJsjrCEPJyL6oHBZEnf-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DHJsjrCEPJyL6oHBZEnf-9" value="temp+=len(i.strip())" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="105" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="105" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DHJsjrCEPJyL6oHBZEnf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DHJsjrCEPJyL6oHBZEnf-12" target="DHJsjrCEPJyL6oHBZEnf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
           <mxGeometry x="120" y="540" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBDjE0Sk7IiUameBSEOG-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(240, 240, 240); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;yes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="170" y="430" width="30" height="30" as="geometry" />
+          <mxGeometry x="170" y="440" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mBDjE0Sk7IiUameBSEOG-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(240, 240, 240); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;no&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="80" y="390" width="20" height="20" as="geometry" />
