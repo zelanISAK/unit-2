@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T16:37:00.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iHiLNt-rLow1qFZcZ1yb" version="20.6.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-24T16:47:56.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8C1zryq9JpDmX00QK5kt" version="20.6.0" type="github" pages="10">
   <diagram id="7nk6eQPHhUL6S2deodAz" name="q17">
     <mxGraphModel dx="660" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -849,7 +849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jFjVyVCT8wIiK8n-d1Jv" name="q23">
-    <mxGraphModel dx="2286" dy="1431" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -942,6 +942,26 @@
         </mxCell>
         <mxCell id="87dbJG50ToSPZ21OvuJZ-27" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-7" y="1170" width="78.06" height="51.74" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ET_uUzVYVy4ryhdFJAEF" name="q24">
+    <mxGraphModel dx="551" dy="287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4y12MRqQhYG0T_HYEY2e-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="161" y="48" width="73.18" height="44.09" as="geometry" />
+        </mxCell>
+        <mxCell id="4y12MRqQhYG0T_HYEY2e-2" value="from matplotlib import pyplot as plt" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="81.59" y="107" width="232" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="4y12MRqQhYG0T_HYEY2e-3" value="x,y,s=[],[],-10.2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="140.09" y="171" width="115" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4y12MRqQhYG0T_HYEY2e-4" value="for i in range(100)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="128.68" y="237" width="137.82" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
