@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T15:28:17.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GCFfKhAYbZ05DWQZydHd" version="20.6.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-11-24T15:28:58.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wMQi5C3ijDoJ6ornV5A5" version="20.6.0" type="github" pages="7">
   <diagram id="7nk6eQPHhUL6S2deodAz" name="q17">
     <mxGraphModel dx="660" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -618,14 +618,31 @@
         <mxCell id="KOoTfapKA-FT_StB8TLe-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="KOoTfapKA-FT_StB8TLe-8" target="KOoTfapKA-FT_StB8TLe-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KOoTfapKA-FT_StB8TLe-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="KOoTfapKA-FT_StB8TLe-8" target="KOoTfapKA-FT_StB8TLe-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="49" y="175" />
+              <mxPoint x="49" y="412" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KOoTfapKA-FT_StB8TLe-8" value="temp&amp;gt;0 and temp%4==0" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="86" y="113" width="214" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="KOoTfapKA-FT_StB8TLe-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="KOoTfapKA-FT_StB8TLe-10" target="KOoTfapKA-FT_StB8TLe-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOoTfapKA-FT_StB8TLe-10" value="A = not A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="271" width="121" height="46" as="geometry" />
         </mxCell>
         <mxCell id="KOoTfapKA-FT_StB8TLe-12" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;fontSize=16;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="214" y="233" width="43" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KOoTfapKA-FT_StB8TLe-13" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;fontSize=16;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="253" width="36" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KOoTfapKA-FT_StB8TLe-14" value="temp&amp;gt;0 and temp%2==0" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="86" y="350" width="214" height="124" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
