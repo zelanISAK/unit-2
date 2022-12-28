@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T07:49:03.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6V9KJnpV-bTWIQTJIvmj" version="20.7.4" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-12-28T07:50:09.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="26o8FvOCw1V_XLc4sAYr" version="20.7.4" type="github" pages="14">
   <diagram id="7nk6eQPHhUL6S2deodAz" name="q17">
     <mxGraphModel dx="424" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1181,12 +1181,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xW3wweRNRmQ3ClWUKFDw" name="q28">
-    <mxGraphModel dx="855" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="1298" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="44mYBO7oU63CnNZpnU__-1" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-73" y="361" width="80" height="37" as="geometry" />
+          <mxGeometry x="-73" y="416" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="44mYBO7oU63CnNZpnU__-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="44mYBO7oU63CnNZpnU__-2" target="44mYBO7oU63CnNZpnU__-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1200,11 +1200,23 @@
         <mxCell id="44mYBO7oU63CnNZpnU__-4" value="&lt;div&gt;from matplotlib import pyplot as plt&lt;/div&gt;&lt;div&gt;import warnings&lt;/div&gt;&lt;div&gt;import numpy as np&lt;/div&gt;&lt;div&gt;warnings.simplefilter(&#39;ignore&#39;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-149.5" y="36" width="227" height="81" as="geometry" />
         </mxCell>
+        <mxCell id="44mYBO7oU63CnNZpnU__-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="44mYBO7oU63CnNZpnU__-5" target="44mYBO7oU63CnNZpnU__-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="44mYBO7oU63CnNZpnU__-5" value="&lt;div&gt;data = {&#39;x&#39;:[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;y&#39;:[24,1,2,25,26,21,23,34,49,2,19,32,7,17,36,7,45,28,40,46]}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-226.5" y="145" width="381" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="44mYBO7oU63CnNZpnU__-8" value="&lt;div&gt;data[&#39;title&#39;]=&quot;quiz028&quot;&lt;/div&gt;&lt;div&gt;&lt;div&gt;plt.plot(data[&#39;x&#39;],data[&#39;y&#39;])&lt;/div&gt;&lt;div&gt;plt.ylabel(&#39;Y&#39;)&lt;/div&gt;&lt;div&gt;plt.xlabel(&#39;X&#39;)&lt;/div&gt;&lt;div&gt;plt.title(data[&#39;title&#39;])&lt;/div&gt;&lt;div&gt;plt.show()&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-186" y="236" width="166" height="102" as="geometry" />
+        <mxCell id="44mYBO7oU63CnNZpnU__-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="44mYBO7oU63CnNZpnU__-8" target="44mYBO7oU63CnNZpnU__-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mYBO7oU63CnNZpnU__-8" value="&lt;div&gt;data[&#39;title&#39;]=&quot;quiz028&quot;&lt;/div&gt;&lt;div&gt;&lt;div&gt;plt.plot(data[&#39;x&#39;],data[&#39;y&#39;])&lt;/div&gt;&lt;div&gt;plt.ylabel(&#39;Y&#39;)&lt;/div&gt;&lt;div&gt;plt.xlabel(&#39;X&#39;)&lt;/div&gt;&lt;div&gt;plt.title(data[&#39;title&#39;])&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="235" width="166" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="44mYBO7oU63CnNZpnU__-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="44mYBO7oU63CnNZpnU__-9" target="44mYBO7oU63CnNZpnU__-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="44mYBO7oU63CnNZpnU__-9" value="plt.show()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-81.5" y="362" width="91" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
