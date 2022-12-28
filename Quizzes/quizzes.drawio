@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T09:19:26.026Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TgfW-ml_zwdI0FZPY0P9" version="20.7.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-12-28T09:21:36.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jUVXPsXGyqZjuOBWSlBP" version="20.7.4" type="github" pages="16">
   <diagram id="7nk6eQPHhUL6S2deodAz" name="q17">
     <mxGraphModel dx="424" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1332,14 +1332,35 @@
         <mxCell id="QikvyelmINndhqS25YGr-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="127" y="14" width="74" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="QikvyelmINndhqS25YGr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=13;fontColor=#000000;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="QikvyelmINndhqS25YGr-3" target="QikvyelmINndhqS25YGr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QikvyelmINndhqS25YGr-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; overflow-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px; word-break: normal; color: rgb(36, 41, 47); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-keyword);&quot; class=&quot;pl-k&quot;&gt;from&lt;/span&gt; &lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s1&quot;&gt;matplotlib&lt;/span&gt; &lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-keyword);&quot; class=&quot;pl-k&quot;&gt;import&lt;/span&gt; &lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s1&quot;&gt;pyplot&lt;/span&gt; &lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-keyword);&quot; class=&quot;pl-k&quot;&gt;as&lt;/span&gt; &lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s1&quot;&gt;plt&lt;/span&gt;&#xa;&lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-keyword);&quot; class=&quot;pl-k&quot;&gt;import&lt;/span&gt; &lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s1&quot;&gt;warnings&lt;/span&gt;&#xa;&lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-keyword);&quot; class=&quot;pl-k&quot;&gt;import&lt;/span&gt; &lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s1&quot;&gt;numpy&lt;/span&gt; &lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-keyword);&quot; class=&quot;pl-k&quot;&gt;as&lt;/span&gt; &lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s1&quot;&gt;np&lt;/span&gt;&#xa;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s1&quot;&gt;warnings&lt;/span&gt;.&lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-entity);&quot; class=&quot;pl-en&quot;&gt;simplefilter&lt;/span&gt;(&lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-string);&quot; class=&quot;pl-s&quot;&gt;&#39;ignore&#39;&lt;/span&gt;)&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-9.5" y="75" width="347" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="QikvyelmINndhqS25YGr-5" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="137" y="269" width="74" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="QikvyelmINndhqS25YGr-7" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="137" y="461" width="74" height="32" as="geometry" />
+          <mxGeometry x="127" y="664" width="74" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="QikvyelmINndhqS25YGr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=13;fontColor=#000000;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="QikvyelmINndhqS25YGr-8" target="QikvyelmINndhqS25YGr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QikvyelmINndhqS25YGr-8" value="&lt;div&gt;h = [57.0, 56.0, 57.0, 56.0, 55.0, 55.0, 54.0, 54.0, 54.0, 53.0, 53.0, 54.0, 53.0, 53.0, 52.0, 52.0, 51.0, 51.0, 51.0, 50.0, 50.0, 49.0, 50.0, 49.0, 49.0, 48.0, 49.0, 49.0, 48.0, 48.0, 48.0, 49.0]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="63" y="191" width="202" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QikvyelmINndhqS25YGr-11" value="def smoothing" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="104" y="352" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="QikvyelmINndhqS25YGr-14" value="&lt;div&gt;fig, ax = plt.subplots(3,1, figsize=(8, 6))&lt;/div&gt;&lt;div&gt;data,titles=[h,smoothing(h,4),smoothing(h,2)],[&#39;Humidity&#39;,&#39;Smoothed Humidity (window size=4)&#39;,&#39;Humidity (Window Overlaps 50%)&#39;]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-22" y="503" width="391" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="QikvyelmINndhqS25YGr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=13;fontColor=#000000;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="QikvyelmINndhqS25YGr-15" target="QikvyelmINndhqS25YGr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QikvyelmINndhqS25YGr-15" value="for i in range(3)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-146" y="745" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QikvyelmINndhqS25YGr-16" value="&lt;div&gt;ax[i].plot(data[i])&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ax[i].set_title(titles[i])&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ax[i].set_xlabel(&#39;Samples&#39;)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ax[i].set_ylabel(&#39;Relative Humidity (%)&#39;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-211.5" y="813" width="251" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
