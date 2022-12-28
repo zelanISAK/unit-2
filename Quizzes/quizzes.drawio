@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T07:04:37.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ASEAkidH_8TZqBVeEsxW" version="20.7.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-12-28T07:11:16.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zCI5_sWeLz8oh2Wyfy0z" version="20.7.4" type="github" pages="13">
   <diagram id="7nk6eQPHhUL6S2deodAz" name="q17">
     <mxGraphModel dx="424" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1115,10 +1115,68 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h_I2ObufHAIvG5d51vqI" name="q27">
-    <mxGraphModel dx="368" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1672" dy="888" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2P2jXPor30sSR9T3-pSY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="2P2jXPor30sSR9T3-pSY-1" target="2P2jXPor30sSR9T3-pSY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="17" width="99" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-2" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="787" width="99" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="2P2jXPor30sSR9T3-pSY-3" target="2P2jXPor30sSR9T3-pSY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 16px; overflow-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px; color: rgb(36, 41, 47); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;notranslate&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; padding: 0px; margin: 0px; background: transparent; border-radius: 6px; word-break: normal; border: 0px; display: inline; overflow: visible; line-height: inherit; overflow-wrap: normal;&quot;&gt;from matplotlib import pyplot as plt&#xa;import warnings&#xa;import numpy as np&#xa;warnings.simplefilter(&#39;ignore&#39;)&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="21" y="92" width="317" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="2P2jXPor30sSR9T3-pSY-6" target="2P2jXPor30sSR9T3-pSY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-6" value="&lt;div&gt;sensorA = [16,24,24,9,23,26,26,23,25,14]&lt;/div&gt;&lt;div&gt;sensorB = [2,19,25,10,11,24,17,7,24,17]&lt;/div&gt;&lt;div&gt;sensorC = [15,11,24,21,6,2,18,27,1,16]&lt;/div&gt;&lt;div&gt;mean,std,max2,min2 = [],[],[],[]&lt;/div&gt;&lt;div&gt;samples = np.arange(1,11)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="15" y="220" width="329" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="2P2jXPor30sSR9T3-pSY-9" target="2P2jXPor30sSR9T3-pSY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="2P2jXPor30sSR9T3-pSY-9" target="2P2jXPor30sSR9T3-pSY-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-167" y="392" />
+              <mxPoint x="-167" y="682" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-9" value="for i in range(10)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="371" width="152" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="2P2jXPor30sSR9T3-pSY-11" target="2P2jXPor30sSR9T3-pSY-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="398" y="509" />
+              <mxPoint x="398" y="392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-11" value="&lt;pre style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13px; margin-top: 0px; margin-bottom: 16px; overflow-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px; color: rgb(36, 41, 47); text-align: start;&quot; class=&quot;notranslate&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; padding: 0px; margin: 0px; background: transparent; border-radius: 6px; word-break: normal; border: 0px; display: inline; overflow: visible; line-height: inherit; overflow-wrap: normal;&quot;&gt;data = [sensorA[i],sensorB[i],sensorC[i]]&lt;br&gt;mean.append(np.mean(data))&lt;br&gt;std.append(np.std(data))&lt;br&gt;max2.append(max(data))&lt;br&gt;min2.append(min(data))&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1" y="455" width="357" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-13" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="189" y="424" width="44" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="2P2jXPor30sSR9T3-pSY-14" target="2P2jXPor30sSR9T3-pSY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-14" value="&lt;pre style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 16px; overflow-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px; color: rgb(36, 41, 47); text-align: start;&quot; class=&quot;notranslate&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; padding: 0px; margin: 0px; background: transparent; border-radius: 6px; word-break: normal; border: 0px; display: inline; overflow: visible; line-height: inherit; overflow-wrap: normal;&quot;&gt;plt.errorbar(samples,mean,std,fmt=&quot;o&quot;)&lt;br/&gt;plt.fill_between(samples,max2,min2,alpha=0.5,linewidth=0, color=&#39;#8ecae6&#39;)&lt;br/&gt;plt.ylabel(&#39;Relative Humidity&#39;)&lt;br/&gt;plt.xlabel(&#39;Hour&#39;)&lt;br/&gt;plt.title(&#39;Humidity&#39;)&lt;br/&gt;plt.show()&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-134.5" y="606" width="628" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2jXPor30sSR9T3-pSY-17" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-134.5" y="355" width="50" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
