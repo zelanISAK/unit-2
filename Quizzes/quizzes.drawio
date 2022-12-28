@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T07:48:34.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="U4WFe-I2fYu-6F5Y9KLB" version="20.7.4" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-12-28T07:49:03.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6V9KJnpV-bTWIQTJIvmj" version="20.7.4" type="github" pages="14">
   <diagram id="7nk6eQPHhUL6S2deodAz" name="q17">
     <mxGraphModel dx="424" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1202,6 +1202,9 @@
         </mxCell>
         <mxCell id="44mYBO7oU63CnNZpnU__-5" value="&lt;div&gt;data = {&#39;x&#39;:[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;y&#39;:[24,1,2,25,26,21,23,34,49,2,19,32,7,17,36,7,45,28,40,46]}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-226.5" y="145" width="381" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="44mYBO7oU63CnNZpnU__-8" value="&lt;div&gt;data[&#39;title&#39;]=&quot;quiz028&quot;&lt;/div&gt;&lt;div&gt;&lt;div&gt;plt.plot(data[&#39;x&#39;],data[&#39;y&#39;])&lt;/div&gt;&lt;div&gt;plt.ylabel(&#39;Y&#39;)&lt;/div&gt;&lt;div&gt;plt.xlabel(&#39;X&#39;)&lt;/div&gt;&lt;div&gt;plt.title(data[&#39;title&#39;])&lt;/div&gt;&lt;div&gt;plt.show()&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-186" y="236" width="166" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
