@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T09:14:54.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QbU8TpHVp4o5NUpplgpR" version="20.7.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-01-08T09:34:18.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IodetDLQFTYl4Eckp7v5" version="20.7.4" type="github" pages="18">
   <diagram id="7nk6eQPHhUL6S2deodAz" name="q17">
     <mxGraphModel dx="555" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1565,7 +1565,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LJPb8eOn0gzOtZA96YbW" name="q32">
-    <mxGraphModel dx="904" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="382" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1573,7 +1573,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FpGHSXu0znHYD5aooYJF-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="90" width="70" height="40" as="geometry" />
+          <mxGeometry x="197.5" y="90" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FpGHSXu0znHYD5aooYJF-4" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1510" width="70" height="40" as="geometry" />
@@ -1582,13 +1582,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FpGHSXu0znHYD5aooYJF-6" value="&lt;div&gt;import numpy as np&lt;/div&gt;&lt;div&gt;import requests&lt;/div&gt;&lt;div&gt;from matplotlib import pyplot as plt&lt;/div&gt;&lt;div&gt;import warnings&lt;/div&gt;&lt;div&gt;warnings.simplefilter(&#39;ignore&#39;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="150" width="200" height="90" as="geometry" />
+          <mxGeometry x="132.5" y="150" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FpGHSXu0znHYD5aooYJF-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpGHSXu0znHYD5aooYJF-8" target="FpGHSXu0znHYD5aooYJF-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FpGHSXu0znHYD5aooYJF-8" value="&lt;div&gt;req = requests.get(&#39;http://192.168.6.142/readings&#39;)&lt;/div&gt;&lt;div&gt;data = req.json()&lt;/div&gt;&lt;div&gt;readings = data[&#39;readings&#39;][0]&lt;/div&gt;&lt;div&gt;&lt;div&gt;sensor9, sensor10 = [],[]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="260" width="285" height="80" as="geometry" />
+          <mxGeometry x="90" y="260" width="285" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FpGHSXu0znHYD5aooYJF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpGHSXu0znHYD5aooYJF-10" target="FpGHSXu0znHYD5aooYJF-11">
           <mxGeometry relative="1" as="geometry" />
@@ -1629,6 +1629,14 @@
         </mxCell>
         <mxCell id="FpGHSXu0znHYD5aooYJF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpGHSXu0znHYD5aooYJF-16" target="FpGHSXu0znHYD5aooYJF-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FpGHSXu0znHYD5aooYJF-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpGHSXu0znHYD5aooYJF-16" target="FpGHSXu0znHYD5aooYJF-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="595" />
+              <mxPoint x="350" y="385" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FpGHSXu0znHYD5aooYJF-16" value="sample[&#39;sens&lt;br&gt;or_id&#39;]==10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="560" width="100" height="70" as="geometry" />
@@ -1733,6 +1741,12 @@
         </mxCell>
         <mxCell id="FpGHSXu0znHYD5aooYJF-56" value="plt.show()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1460" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FpGHSXu0znHYD5aooYJF-61" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FpGHSXu0znHYD5aooYJF-65" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="570" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
